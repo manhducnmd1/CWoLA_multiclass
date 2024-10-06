@@ -1,1 +1,1 @@
-
+I created a code that compare One-versus-All and One-versus-Rest approach for CWoLA. Overall, both approaches show roughly same results. Increasing the number of signal values in each portion of CWoLA didn't affect much classification accuracy. 
